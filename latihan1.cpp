@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main(){//begin
 
 double Luas, P, L;
 cout << "Masukan panjangnya : ";
@@ -14,4 +14,4 @@ Luas = P*L;
 
 cout << "Luasnya : " << Luas;
 
-}
+}//end
